@@ -102,28 +102,11 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⊜ *Tokens ➟* ${joincount} 🪙
 ${readMore}
 *╭━〔 INFORMACIÓN DE GATABOT 〕⬣*
-┃💫➺ _${usedPrefix}cuentasgatabot | cuentasgb_
-┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
-┃💫➺ _${usedPrefix}donar | donate_
-┃💫➺ _${usedPrefix}listagrupos | grouplist_
-┃💫➺ _${usedPrefix}estado | heygata | status_
-┃💫➺ _${usedPrefix}infogata | infobot_
-┃💫➺ _${usedPrefix}instalarbot | installbot_
 ┃💫➺ _${usedPrefix}creadora | owner_
 ┃💫➺ _${usedPrefix}velocidad | ping_
-┃💫➺ _Bot_ 
 ┃💫➺ _términos y condiciones_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━〔 FUNCIÓN SUB BOT 〕━⬣*
-┃ *Ya puedes convertir tú*
-┃ *Número en GataBot!!*
-┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-┃💻 _${usedPrefix}serbot | jadibot_
-┃💻 _${usedPrefix}bots | listjadibots_
-┃💻 _${usedPrefix}detener | stop_
-┃💻 _${usedPrefix}bcbot_
-*╰━━━━━━━━━━━━⬣*
 
 *╭━〔 REPORTAR COMANDO 〕━⬣*
 ┃ *Reporta con este comando de haber*
@@ -134,7 +117,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a GataBot en Grupos!!*
+┃ *Une a BotAxx en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
@@ -282,7 +265,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CONFIGURACIÓN - GRUPOS ]━⬣*
-┃ *Mejora tú Grupo con GataBot!!*
+┃ *Mejora tú Grupo con BotAxx!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🌐➺ _${usedPrefix}add *numero*_
 ┃🌐➺ _${usedPrefix}sacar | ban | kick  *@tag*_
@@ -527,7 +510,7 @@ ${readMore}
 ┃⚗️➺ _${usedPrefix}trabajar | work_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━━━[ TOP EN GATABOT ]━━⬣*
+*╭━━━[ TOP EN BotAxx ]━━⬣*
 ┃ *Averigua en que Top te encuentras!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🏆➺ _${usedPrefix}top | lb | leaderboard_
